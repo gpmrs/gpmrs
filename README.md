@@ -1,5 +1,4 @@
 - :bee: hi i'm @gpmrs
 - :sunflower: age twenty five, pronouns she/her
 - :crescent_moon: front-end developer
-- :honey_pot: i like math and horror movies
-- :dizzy: i'm on [twitter](https://twitter.com/gayorbit) sometimes
+- :honey_pot: i like math and learning new things
